@@ -1,0 +1,17 @@
+/* Shared heading scale. Explicit precedence also covers older route styles. */
+:root{--type-page-title:clamp(40px,3.9vw,56px);--type-section-title:clamp(30px,2.8vw,40px);--type-subtitle:24px}
+body h1{font-size:var(--type-page-title)!important;line-height:1.12!important;letter-spacing:-.025em!important}
+body main h2{font-size:var(--type-section-title)!important;line-height:1.18!important;letter-spacing:-.02em!important}
+body main h3{font-size:var(--type-subtitle)!important;line-height:1.25!important;letter-spacing:-.015em!important}
+body main h4{font-size:20px!important;line-height:1.3!important}
+body h1 :is(span,strong,em),body h2 :is(span,strong,em),body h3 :is(span,strong,em){font-size:inherit!important}
+body .project-caption h3,body .blog-card h3{font-size:22px!important}
+body .modal-dialog h2{font-size:28px!important;line-height:1.2!important}
+body footer h2{font-size:17px!important;line-height:1.3!important}
+body .mobile-nav-links a{font-size:22px!important;line-height:1.3!important}
+@media(max-width:600px){:root{--type-page-title:36px;--type-section-title:30px;--type-subtitle:20px}body .project-caption h3,body .blog-card h3{font-size:20px!important}body .modal-dialog h2{font-size:24px!important}}
+@media(max-width:360px){:root{--type-page-title:32px;--type-section-title:28px}}
+
+/* User-requested bold weight for all semantic titles and headings. */
+body :is(h1,h2,h3,h4,h5,h6){font-weight:700!important}
+body :is(h1,h2,h3,h4,h5,h6) :is(span,strong,em,a){font-weight:inherit!important}

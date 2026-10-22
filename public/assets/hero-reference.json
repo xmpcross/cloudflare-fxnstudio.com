@@ -1,0 +1,37 @@
+{
+  "source": "https://v0-optimus-delta.vercel.app/",
+  "inspected": "2026-10-09",
+  "sourceBundle": "https://v0-optimus-delta.vercel.app/_next/static/chunks/cc0187ae3eacb44a.js",
+  "renderer": "Canvas 2D",
+  "globe": {
+    "symbols": "░▒▓█▀▄▌▐│─┤├┴┬╭╮╰╯",
+    "font": "12px monospace",
+    "longitudeStepRadians": 0.15,
+    "latitudeStepRadians": 0.15,
+    "pointCount": 882,
+    "radiusRatio": 0.525,
+    "rotationFactors": [
+      0.5,
+      0.3,
+      0.2
+    ],
+    "referenceAnglePerFrame": 0.02,
+    "implementedAnglePerSecond": 1.2,
+    "depthOpacity": "0.2 + (z + 1) * 0.4",
+    "containerOpacity": 0.4,
+    "desktopSize": 800,
+    "smallScreenSize": 600,
+    "position": "right: 0; top: 50%; translateY(-50%)",
+    "loop": "continuous while visible"
+  },
+  "adaptations": [
+    "FXN plum glyph color (33,25,49), violet heading emphasis and existing branding",
+    "Elapsed-time animation preserves reference speed across refresh rates",
+    "Pause/resume control, hidden-tab and offscreen suspension, reduced-motion still",
+    "Shared smaller title scale requested by the user: 56px desktop cap, 36px mobile; section headings 40px cap, 30px mobile",
+    "Reference promotional statistics and customer names are not used",
+    "Latest user request restores a two-column hero with buttons and location together in the left column",
+    "All heading levels use font weight700; About uses light lavender",
+    "Latest user request increases globe to max560px desktop,460px medium,360px tablet and300px mobile"
+  ]
+}

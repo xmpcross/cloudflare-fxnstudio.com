@@ -1,0 +1,16 @@
+{
+  "name": "fxn-sites-www-redirect",
+  "main": "www-redirect.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": false,
+  "routes": [
+    {
+      "pattern": "www.fxneurope.eu/*",
+      "zone_name": "fxneurope.eu"
+    },
+    {
+      "pattern": "www.fxnstudio.com/*",
+      "zone_name": "fxnstudio.com"
+    }
+  ]
+}

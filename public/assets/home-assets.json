@@ -1,0 +1,90 @@
+{
+  "metadataSource": "https://fxnholdings.com/portfolio/",
+  "cardDesignReference": "https://pixelbin.com/portfolio/",
+  "assets": [
+    {
+      "path": "assets/images/home-projects/originfacts.jpg",
+      "project": "OriginFacts",
+      "category": "Travel & booking",
+      "sourceUrl": "https://originfacts.com/",
+      "metadataSource": "https://fxnholdings.com/portfolio/",
+      "method": "Unedited Playwright screenshot of the real website; dismissed cookie notice using necessary-only/reject control when available.",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedDate": "2026-10-09",
+      "sha256": "14682761916e5f0dcc55d4d7bcda788c2d93c76f6cc8fa674bc5151686df23ef"
+    },
+    {
+      "path": "assets/images/home-projects/nxt-deals.jpg",
+      "project": "NXT Deals",
+      "category": "Price comparison & deals",
+      "sourceUrl": "https://nxt.deals/",
+      "metadataSource": "https://fxnholdings.com/portfolio/",
+      "method": "Unedited Playwright screenshot of the real website; dismissed cookie notice using necessary-only/reject control when available.",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedDate": "2026-10-09",
+      "sha256": "99257a767afe1d0d8a95d0a79cfedb3e12f16d52dd6853dfa4e8e0252a3e4d58"
+    },
+    {
+      "path": "assets/images/home-projects/bestlooking-skin.jpg",
+      "project": "BestLooking.Skin",
+      "category": "Content & publishing",
+      "sourceUrl": "https://www.bestlooking.skin/",
+      "metadataSource": "https://fxnholdings.com/portfolio/",
+      "method": "Unedited Playwright screenshot of the real website; dismissed cookie notice using necessary-only/reject control when available.",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedDate": "2026-10-09",
+      "sha256": "8439c90fa70949d1f0e7535152bca774501169ccc77cf140b8c7cbc1420e7401"
+    },
+    {
+      "path": "assets/images/home-projects/solostack.jpg",
+      "project": "SoloStack",
+      "category": "Content & publishing \u00b7 Australia",
+      "sourceUrl": "https://solostack.au/",
+      "metadataSource": "https://fxnholdings.com/portfolio/",
+      "method": "Unedited Playwright screenshot of the real website; dismissed cookie notice using necessary-only/reject control when available.",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedDate": "2026-10-09",
+      "sha256": "a26af179b24127d17668378a581663e9e47e305253f408a5d21038dc45c185eb"
+    },
+    {
+      "path": "assets/images/home-projects/nxt-smart-home.jpg",
+      "project": "NXT Smart Home",
+      "category": "Content & publishing \u00b7 Australia",
+      "sourceUrl": "https://nxtsmarthome.com.au/",
+      "metadataSource": "https://fxnholdings.com/portfolio/",
+      "method": "Unedited Playwright screenshot of the real website; dismissed cookie notice using necessary-only/reject control when available.",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedDate": "2026-10-09",
+      "sha256": "53cf104a4af847b355d1f80fb436291b9805c112f76f8fdcdc357b4970205e4a"
+    },
+    {
+      "path": "assets/images/home-projects/fxnseo.jpg",
+      "project": "FXN SEO",
+      "category": "Free online tools",
+      "sourceUrl": "https://fxnseo.com/",
+      "metadataSource": "https://fxnholdings.com/portfolio/",
+      "method": "Unedited Playwright screenshot of the real website; dismissed cookie notice using necessary-only/reject control when available.",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "capturedDate": "2026-10-09",
+      "sha256": "ff29a39e628e2a318b1c8f1ab5dc6610209ce1378561968f2476105477558559"
+    }
+  ]
+}

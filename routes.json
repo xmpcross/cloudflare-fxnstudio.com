@@ -1,0 +1,308 @@
+[
+  {
+    "path": "/",
+    "file": "index.html",
+    "title": "FXN Studio | Web Design, Software Development and AI Integration",
+    "status": 200
+  },
+  {
+    "path": "/about-us",
+    "file": "about-us/index.html",
+    "title": "About FXN Studio | Australia-Based Digital Studio for Global Clients",
+    "status": 200
+  },
+  {
+    "path": "/blog",
+    "file": "blog/index.html",
+    "title": "Digital Strategy, Web Development and AI Insights | FXN Studio Blog",
+    "status": 200
+  },
+  {
+    "path": "/blog/ai-chat-agents-internal-tooling-productivity",
+    "file": "blog/ai-chat-agents-internal-tooling-productivity/index.html",
+    "title": "AI Chat Agents & Internal Tooling: How Australian Teams Reclaim 15+ Hours Weekly | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/blog/category/ai-automation",
+    "file": "blog/category/ai-automation/index.html",
+    "title": "AI & Automation Articles | FXN Studio Insights",
+    "status": 200
+  },
+  {
+    "path": "/blog/category/ecommerce",
+    "file": "blog/category/ecommerce/index.html",
+    "title": "eCommerce & CRO Articles | FXN Studio Insights",
+    "status": 200
+  },
+  {
+    "path": "/blog/category/seo-growth",
+    "file": "blog/category/seo-growth/index.html",
+    "title": "Technical SEO & Growth Articles | FXN Studio Insights",
+    "status": 200
+  },
+  {
+    "path": "/blog/category/web-design",
+    "file": "blog/category/web-design/index.html",
+    "title": "Web Design & UX Articles | FXN Studio Insights",
+    "status": 200
+  },
+  {
+    "path": "/blog/high-converting-b2b-website-design-principles",
+    "file": "blog/high-converting-b2b-website-design-principles/index.html",
+    "title": "High-Converting B2B Website Design: 7 Core Principles for Perth Businesses | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/blog/integrating-custom-ai-workflows-in-business",
+    "file": "blog/integrating-custom-ai-workflows-in-business/index.html",
+    "title": "Integrating Custom AI Workflows: Moving Beyond Generic Chatbots to Business Value | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/blog/modern-web-architecture-speed-ux",
+    "file": "blog/modern-web-architecture-speed-ux/index.html",
+    "title": "Modern Web Architecture: How Speed & UX Directly Impact Conversion Rates | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/blog/programmatic-seo-search-authority-foundations",
+    "file": "blog/programmatic-seo-search-authority-foundations/index.html",
+    "title": "Programmatic SEO: How to Scale Search Authority with Structured Data - FXN Studio Insights",
+    "status": 200
+  },
+  {
+    "path": "/blog/reducing-checkout-friction-ecommerce-sales",
+    "file": "blog/reducing-checkout-friction-ecommerce-sales/index.html",
+    "title": "Reducing Checkout Friction: 5 UX Adjustments That Immediately Boost Sales | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/blog/scaling-shopify-custom-storefront-cro",
+    "file": "blog/scaling-shopify-custom-storefront-cro/index.html",
+    "title": "Scaling Storefronts: When to Move Beyond Standard Templates to Custom CRO | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/blog/technical-seo-audit-checklist-perth-businesses",
+    "file": "blog/technical-seo-audit-checklist-perth-businesses/index.html",
+    "title": "Technical SEO Audit Checklist for Modern High-Growth Businesses - FXN Studio Insights",
+    "status": 200
+  },
+  {
+    "path": "/contact",
+    "file": "contact/index.html",
+    "title": "Contact FXN Studio | Start a Website, Software or AI Project",
+    "status": 200
+  },
+  {
+    "path": "/cookie-information",
+    "file": "cookie-information/index.html",
+    "title": "Cookie Information | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/industries",
+    "file": "industries/index.html",
+    "title": "Digital Solutions for Industries | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio",
+    "file": "portfolio/index.html",
+    "title": "Our Work | Website, Software and Digital Projects by FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/autism-supports",
+    "file": "portfolio/autism-supports/index.html",
+    "title": "Autism Supports IE | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/brismo",
+    "file": "portfolio/brismo/index.html",
+    "title": "Brismo | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/branding",
+    "file": "portfolio/category/branding/index.html",
+    "title": "Branding | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/ecommerce-website",
+    "file": "portfolio/category/ecommerce-website/index.html",
+    "title": "eCommerce website | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/interaction-design",
+    "file": "portfolio/category/interaction-design/index.html",
+    "title": "Interaction Design | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/logo",
+    "file": "portfolio/category/logo/index.html",
+    "title": "Logo | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/magento",
+    "file": "portfolio/category/magento/index.html",
+    "title": "Magento | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/mobile-app",
+    "file": "portfolio/category/mobile-app/index.html",
+    "title": "Mobile App | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/social-media-branding",
+    "file": "portfolio/category/social-media-branding/index.html",
+    "title": "Social Media Branding | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/ui-design",
+    "file": "portfolio/category/ui-design/index.html",
+    "title": "UI Design | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/ux-design",
+    "file": "portfolio/category/ux-design/index.html",
+    "title": "UX Design | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/web-development",
+    "file": "portfolio/category/web-development/index.html",
+    "title": "Web Development | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/website",
+    "file": "portfolio/category/website/index.html",
+    "title": "Website | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/category/website-development",
+    "file": "portfolio/category/website-development/index.html",
+    "title": "Website Development | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/corker",
+    "file": "portfolio/corker/index.html",
+    "title": "Corker | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/motiv-ring",
+    "file": "portfolio/motiv-ring/index.html",
+    "title": "Motiv Ring | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/mtv-shuga",
+    "file": "portfolio/mtv-shuga/index.html",
+    "title": "MTV Shuga | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/prizegamer",
+    "file": "portfolio/prizegamer/index.html",
+    "title": "Prizegamer | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/rotal",
+    "file": "portfolio/rotal/index.html",
+    "title": "Rotal | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/thruday",
+    "file": "portfolio/thruday/index.html",
+    "title": "Thruday | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/trevor-sorbie",
+    "file": "portfolio/trevor-sorbie/index.html",
+    "title": "Trevor Sorbie | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/portfolio/workkle",
+    "file": "portfolio/workkle/index.html",
+    "title": "Workkle | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/privacy-policy",
+    "file": "privacy-policy/index.html",
+    "title": "Privacy Policy | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/process",
+    "file": "process/index.html",
+    "title": "Our Process | Strategy, Design, Development and AI Integration",
+    "status": 200
+  },
+  {
+    "path": "/services",
+    "file": "services/index.html",
+    "title": "Digital Services | Web Development, AI Integration and Custom Software",
+    "status": 200
+  },
+  {
+    "path": "/services/ai-integrations",
+    "file": "services/ai-integrations/index.html",
+    "title": "AI Integration Services | Business Automation and AI Workflows",
+    "status": 200
+  },
+  {
+    "path": "/services/ecommerce-development",
+    "file": "services/ecommerce-development/index.html",
+    "title": "E-commerce Development | Online Store Design and Development",
+    "status": 200
+  },
+  {
+    "path": "/services/open-source-platform-solutions",
+    "file": "services/open-source-platform-solutions/index.html",
+    "title": "Open-Source Web Development and Platform Solutions | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/services/seo-growth",
+    "file": "services/seo-growth/index.html",
+    "title": "SEO Website Optimisation | Technical SEO and Performance Services",
+    "status": 200
+  },
+  {
+    "path": "/services/web-design",
+    "file": "services/web-design/index.html",
+    "title": "Website Design and Development | FXN Studio Australia",
+    "status": 200
+  },
+  {
+    "path": "/services/web-development",
+    "file": "services/web-development/index.html",
+    "title": "Custom Software Development | Web Apps, Portals and SaaS Platforms",
+    "status": 200
+  },
+  {
+    "path": "/terms-of-services",
+    "file": "terms-of-services/index.html",
+    "title": "Terms of Service | FXN Studio",
+    "status": 200
+  }
+]

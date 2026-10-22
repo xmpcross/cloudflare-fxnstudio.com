@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.dist-build/
+.wrangler/
+.pages-check/
+__pycache__/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+!.dev.vars.example

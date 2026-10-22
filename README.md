@@ -23,7 +23,7 @@ python3 scripts/check-deployment.py https://fxnstudio.com
 ```
 
 Edit sources, commit and push **`migrate/cloudflare-pages`** to
-https://github.com/xmpcross/fxnstudio.com. Cloudflare automatically builds and deploys
+https://github.com/xmpcross/cloudflare-fxnstudio.com. Cloudflare automatically builds and deploys
 that branch. Project: `fxnstudio-com`; build command: `npm run build`; output: `dist`;
 repository root: `/`. Other branches produce previews. The `main` branch remains
 the historical source. Generated `dist/` and credentials must not be committed.

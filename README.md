@@ -1,5 +1,7 @@
 # fxnstudio.com — Cloudflare Pages
 
+Updated 23 October 2026. Operational claims below reflect the local cutover records.
+
 Live at **https://fxnstudio.com**. Both apex and www custom domains are active.
 Cloudflare Pages serves 51 exported HTML documents and local assets without
 Payload, Next.js or a database. The original server also serves the static build
@@ -15,10 +17,13 @@ as a fallback. Production Payload is stopped and disabled.
 Requirements: Python 3; Node 22+ and npm for development tooling.
 
 ```sh
+cd /kspellman/sites/cloudflare/fxnstudio.com/static
 npm ci
 npm run build
 npm test
+npm run check:pages
 npm run dev
+# Stop the preview with Ctrl-C before running the remote check.
 python3 scripts/check-deployment.py https://fxnstudio.com
 ```
 
@@ -44,7 +49,6 @@ npx wrangler deploy --config ops/wrangler.jsonc
 ```
 
 That Worker is shared by both sites; keep the source copies synchronized.
-Europe also preserves the `/` to `/en/` redirect and explicit 404 routes.
 Unknown pages, `/admin` and CMS API URLs return 404.
 
 ## Contact behavior and retained services
@@ -64,14 +68,13 @@ public domain, along with 404s, headers, sitemap and robots. Source/build fideli
 and local asset/link checks pass. HTTPS and www redirects are verified. Mail and
 all unrelated DNS records were preserved.
 
-Local operational records: `../migration/cloudflare-cutover.json` and
-`../migration/static-status.json`. Cutover backups (DNS, nginx, service states)
-are in `../backups/cloudflare-cutover/`. Original exported content and database
-backups are in the earlier `../backups/static-migration-*/` directory.
+Local operational records: `/kspellman/sites/payload-backup/fxnstudio.com/migration/cloudflare-cutover.json` and
+`/kspellman/sites/payload-backup/fxnstudio.com/migration/static-status.json`. Cutover backups (DNS, nginx, service states)
+are in `/kspellman/sites/payload-backup/fxnstudio.com/backups/cloudflare-cutover/`. Original exported content and database
+backups are in the earlier `/kspellman/sites/payload-backup/fxnstudio.com/backups/static-migration-*/` directory.
 
 To move hosting back to the server, restore only the apex/www DNS records from
 `dns-before.json`, leaving email records untouched. The origin already serves
 `static/dist/` via `../config/nginx-static.conf`. To restore Payload specifically,
 start its database and app services, restore `origin-nginx-before.conf`, run
-`nginx -t`, and reload nginx. Europe additionally needs its backup timer enabled.
-Keep backups and the old app directories until rollback is no longer needed.
+`nginx -t`, and reload nginx. Keep backups and the old app directories until rollback is no longer needed.

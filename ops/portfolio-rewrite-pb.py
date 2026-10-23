@@ -138,6 +138,7 @@ style = """<style>
 .pf-js .pf-item{opacity:0;transform:translateY(46px);transition:opacity .7s ease var(--d,0ms),transform .8s cubic-bezier(.2,.8,.2,1) var(--d,0ms)}
 .pf-js .pf-item.is-in{opacity:1;transform:none}
 /* header, after the Legency Media example */
+@media (min-width:900px){.page__heading{box-sizing:border-box;height:440px;padding-top:0!important;padding-bottom:0!important}.page__heading>.container,.page__heading>.container>.row,.page__heading>.container>.row>.col{height:100%}.page__heading>.container>.row>.col{display:flex;flex-direction:column;justify-content:center}.page__heading .pf-bar{margin-top:3rem;margin-bottom:0;box-sizing:border-box;min-height:96px}}
 .pf-eyebrow{margin:0 0 2rem;font-size:1rem;color:#555}
 .pf-top{display:grid;grid-template-columns:minmax(0,1fr);gap:1.5rem 3rem;align-items:center}
 .pf-title{margin:0;font-size:3rem;font-weight:700;line-height:.95;letter-spacing:-.04em!important;color:#0f0f0f}

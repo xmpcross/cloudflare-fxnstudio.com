@@ -184,6 +184,8 @@ rep("Whether you need a simple website, a complex eCommerce store, a mobile app 
     "Whether you need a new website, a custom software platform, an e-commerce store or AI integration, FXN Studio can help you plan the right next step.")
 h = re.sub(r'(<a [^>]*href=")/contact("[^>]*>\s*<span>)Chat with me', rf"\g<1>{MAIL}\2Get in Touch", h)
 
+h = h.replace('class="btn__outline-white btn__full" title="Contact a CTO UI/UX Designer and developer in Essex"><span>Get in Touch</span>', 'class="btn__outline-white" title="Get in touch with FXN Studio" style="width:auto;font-size:12px;line-height:34px;height:36px;border-radius:36px"><span>Get in Touch</span>')
+
 # ---- footer -----------------------------------------------------------------
 h = re.sub(r'(<div id="footer-top"><div class="container">\s*)<svg\b.*?</svg>', r'\1<img src="/img/fxn/logo-light.svg" alt="FXN Studio" style="height:2.5rem;width:auto;display:block">', h, count=1, flags=re.S)
 rep("Pixelbin, providing expert level digital services since 2010", "FXN Studio, a digital studio established in Australia")

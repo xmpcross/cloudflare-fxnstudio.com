@@ -1,0 +1,1 @@
+import{t as e}from"./tabs.D8n5svfd.js";e();

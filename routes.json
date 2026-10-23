@@ -68,7 +68,7 @@
   {
     "path": "/blog/programmatic-seo-search-authority-foundations",
     "file": "blog/programmatic-seo-search-authority-foundations/index.html",
-    "title": "Programmatic SEO: How to Scale Search Authority with Structured Data - FXN Studio Insights",
+    "title": "Programmatic SEO: How to Scale Search Authority with Structured Data | FXN Studio",
     "status": 200
   },
   {
@@ -86,7 +86,7 @@
   {
     "path": "/blog/technical-seo-audit-checklist-perth-businesses",
     "file": "blog/technical-seo-audit-checklist-perth-businesses/index.html",
-    "title": "Technical SEO Audit Checklist for Modern High-Growth Businesses - FXN Studio Insights",
+    "title": "The Complete Technical SEO Audit Checklist for Modern High-Growth Businesses | FXN Studio",
     "status": 200
   },
   {
@@ -266,13 +266,13 @@
   {
     "path": "/services/ai-integrations",
     "file": "services/ai-integrations/index.html",
-    "title": "AI Integration Services | Business Automation and AI Workflows",
+    "title": "AI Integration and Automation Services | FXN Studio",
     "status": 200
   },
   {
     "path": "/services/ecommerce-development",
     "file": "services/ecommerce-development/index.html",
-    "title": "E-commerce Development | Online Store Design and Development",
+    "title": "E-commerce Development | FXN Studio",
     "status": 200
   },
   {
@@ -290,19 +290,37 @@
   {
     "path": "/services/web-design",
     "file": "services/web-design/index.html",
-    "title": "Website Design and Development | FXN Studio Australia",
+    "title": "Website Design and Development | FXN Studio",
     "status": 200
   },
   {
     "path": "/services/web-development",
     "file": "services/web-development/index.html",
-    "title": "Custom Software Development | Web Apps, Portals and SaaS Platforms",
+    "title": "Custom Software Development | FXN Studio",
     "status": 200
   },
   {
     "path": "/terms-of-services",
     "file": "terms-of-services/index.html",
     "title": "Terms of Service | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/blog/search",
+    "file": "blog/search/index.html",
+    "title": "Search the blog | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/pricing",
+    "file": "pricing/index.html",
+    "title": "Engagements | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/technology",
+    "file": "technology/index.html",
+    "title": "Technology | FXN Studio",
     "status": 200
   }
 ]

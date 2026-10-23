@@ -110,7 +110,7 @@
   {
     "path": "/portfolio",
     "file": "portfolio/index.html",
-    "title": "Our Work | Website, Software and Digital Projects by FXN Studio",
+    "title": "Portfolio | FXN Studio Websites, Platforms and Software",
     "status": 200
   },
   {
@@ -260,43 +260,19 @@
   {
     "path": "/services",
     "file": "services/index.html",
-    "title": "Digital Services | Web Development, AI Integration and Custom Software",
-    "status": 200
-  },
-  {
-    "path": "/services/ai-integrations",
-    "file": "services/ai-integrations/index.html",
-    "title": "AI Integration and Automation Services | FXN Studio",
-    "status": 200
-  },
-  {
-    "path": "/services/ecommerce-development",
-    "file": "services/ecommerce-development/index.html",
-    "title": "E-commerce Development | FXN Studio",
-    "status": 200
-  },
-  {
-    "path": "/services/open-source-platform-solutions",
-    "file": "services/open-source-platform-solutions/index.html",
-    "title": "Open-Source Web Development and Platform Solutions | FXN Studio",
+    "title": "Services | Web Development, AI Integration and Custom Software | FXN Studio",
     "status": 200
   },
   {
     "path": "/services/seo-growth",
     "file": "services/seo-growth/index.html",
-    "title": "SEO Website Optimisation | Technical SEO and Performance Services",
+    "title": "SEO and Website Optimisation | FXN Studio",
     "status": 200
   },
   {
     "path": "/services/web-design",
     "file": "services/web-design/index.html",
     "title": "Website Design and Development | FXN Studio",
-    "status": 200
-  },
-  {
-    "path": "/services/web-development",
-    "file": "services/web-development/index.html",
-    "title": "Custom Software Development | FXN Studio",
     "status": 200
   },
   {
@@ -321,6 +297,30 @@
     "path": "/technology",
     "file": "technology/index.html",
     "title": "Technology | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/services/custom-software",
+    "file": "services/custom-software/index.html",
+    "title": "Custom Software Development | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/services/ecommerce",
+    "file": "services/ecommerce/index.html",
+    "title": "E-commerce Development | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/services/open-source-platforms",
+    "file": "services/open-source-platforms/index.html",
+    "title": "Open-Source and Platform Solutions | FXN Studio",
+    "status": 200
+  },
+  {
+    "path": "/services/ai-integration",
+    "file": "services/ai-integration/index.html",
+    "title": "AI Integration and Automation Services | FXN Studio",
     "status": 200
   }
 ]
